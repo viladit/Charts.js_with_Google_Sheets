@@ -1,1 +1,1 @@
-Paste your CSV URL in script.js.
+# Paste your CSV URL in script.js.
